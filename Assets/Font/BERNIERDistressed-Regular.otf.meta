@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 7dc15500e109f1c42b79a3043d69d594
+timeCreated: 1521896093
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: BERNIER Distressed
+  fontNames:
+  - BERNIER Distressed
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
